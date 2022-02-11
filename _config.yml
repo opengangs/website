@@ -1,1 +1,4 @@
 theme: jekyll-theme-hacker
+github:
+  home: https://opengangs.github.io/website
+  math: https://opengangs.github.io/website/math
