@@ -5,4 +5,8 @@ A place where I share everything computer science and mathematics related! I wil
 
 ## Mathematics
 
+[(See all)](/math)
+
 ## Computer Science
+
+[(See all)](/cs)
